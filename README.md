@@ -6,11 +6,11 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>Python</span><br><br><br>
+        <span>**Python**</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span>R</span><br><br><br>
+        <span>**R**</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/r-lang.svg">
       </td>
       <td width="25%" align="center">
@@ -23,11 +23,11 @@
       </td>
      <tr valign="top">
       <td width="25%" align="center">
-        <span>Atom</span><br><br><br>
+        <span>**Atom**</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/atom.svg">
       </td>
     <td width="25%" align="center">
-        <span>SQL</span><br><br><br>
+        <span>**SQL**</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
     </tr>
