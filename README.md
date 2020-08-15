@@ -26,7 +26,6 @@
         <span>Atom</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/atom.svg">
       </td>
-    </tr>
     <td width="25%" align="center">
         <span>SQL</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
