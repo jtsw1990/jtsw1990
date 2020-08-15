@@ -38,6 +38,11 @@
   </tbody>
 </table>
 
+## Current Projects
+
+## Publications
+
+## Find Me
 
 <p align="left">
 <a href="mailto:jtsw1990@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
