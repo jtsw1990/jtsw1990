@@ -23,14 +23,10 @@
       </td>
       <td width="25%" align="center">
         <span>Atom</span><br><br><br>
-        <img height="64px" src="hhttps://cdn.svgporn.com/logos/atom.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/atom.svg">
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗟𝗲𝘀𝘀</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-      </td>
     </tr>
   </tbody>
 </table>
