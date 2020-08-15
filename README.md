@@ -51,5 +51,4 @@
 </p>
 
 [![StackOverflow Badge](https://img.shields.io/badge/-jtsw1990-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/10534991/jtsw1990)](https://stackoverflow.com/users/10534991/jtsw1990)
-
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jtsw1990/)](https://www.facebook.com/jtsw1990/)
