@@ -48,4 +48,4 @@
 <a href="mailto:jtsw1990@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 <a href="https://www.linkedin.com/in/jonathan-tan-33a8169b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/jtsw1990/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
-</p>[![StackOverflow Badge](https://img.shields.io/badge/-jtsw1990-FE7A16?style=flat-square&logo=Stack%20Overflow&logoColor=white&link=https://stackoverflow.com/users/10534991/jtsw1990)](https://stackoverflow.com/users/10534991/jtsw1990)
+</p>
