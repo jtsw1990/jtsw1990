@@ -14,20 +14,20 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/r-lang.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <span><b>JavaScript</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+        <span><b>Git</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
      <tr valign="top">
       <td width="25%" align="center">
-        <span>Atom</span><br><br><br>
+        <span><b>Atom</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/atom.svg">
       </td>
     <td width="25%" align="center">
-        <span>SQL</span><br><br><br>
+      <span><b>SQL</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
     </tr>
