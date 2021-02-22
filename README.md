@@ -44,7 +44,9 @@ End-to-end insurance pricing engine
 
 ## Publications
 [Analytics Snippet: Explainable ML: A peek into the black box through SHAP](https://www.actuaries.digital/2021/02/05/explainable-ml-a-peek-into-the-black-box-through-shap/)
+
 [Analytics Snippet: Version control, because the Recycle Bin doesn't count](https://www.actuaries.digital/2019/04/17/analytics-snippet-version-control-because-the-recycle-bin-doesnt-count/)
+
 [Analytics Snippet: Natural Language Processing Text Classification](https://www.actuaries.digital/2018/11/20/analytics-snippet-natural-language-processing-text-classification/)
 ## Find Me
 
