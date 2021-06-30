@@ -3,8 +3,11 @@
 ## About Me
 <hr class="my-3">
 
-:australia: Sydney
-:singapore: Singapore
+Sydney
+
+Singapore
+
+Creator of [nojutsu.io](https://nojutsu.io)
 
 
 Data scientist, actuarial science background.
@@ -13,12 +16,13 @@ AIAA with commercial experience in the life and general insurance sectors, deali
 
 
 
-
-
 ## Current Projects
-Upcoming: Melbourne Business Analytics Datathon 2021
+
+[nojutsu.io](https://nojutsu.io)
 
 End-to-end insurance pricing engine
+
+Melbourne Business Analytics Datathon 2021
 
 ## Publications
 [Analytics Snippet: Explainable ML: A peek into the black box through SHAP](https://www.actuaries.digital/2021/02/05/explainable-ml-a-peek-into-the-black-box-through-shap/)
