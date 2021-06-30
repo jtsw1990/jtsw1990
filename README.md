@@ -1,8 +1,10 @@
-# Hello, friends! 
+# Jonathan.T
 
 ## About Me
+<hr class="my-3">
+:australia: Sydney
+:singapore: Singapore
 
-Born in Singapore, based in Sydney.
 
 Data scientist, actuarial science background.
 
@@ -10,41 +12,7 @@ AIAA with commercial experience in the life and general insurance sectors, deali
 
 
 
-## My Tech Stack
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><b>Python</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>R</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/r-lang.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>JavaScript</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>Git</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-     <tr valign="top">
-      <td width="25%" align="center">
-        <span><b>Atom</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/atom.svg">
-      </td>
-    <td width="25%" align="center">
-      <span><b>SQL</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-    </tr>
-  </tbody>
-</table>
 
 ## Current Projects
 Upcoming: Melbourne Business Analytics Datathon 2021
