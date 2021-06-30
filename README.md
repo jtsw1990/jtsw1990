@@ -12,6 +12,8 @@ Data scientist, actuarial science background.
 
 AIAA with commercial experience in the life and general insurance sectors, dealing with technical cost modelling, pricing engine development, commercial pricing, performance reporting and monitoring. Possesses strong technical foundations in statistics, mathematics and computing, with proven ability to provide data-driven solutions across the data science pipeline, from data extraction to business integration. Active participant in the data science community with open challenges and contributor to the Institute of Actuaries Australia’s “actuaries digital” analytics column. 
 
+## My Stack
+Python, R, Javascript, nodejs, html, css, SQL, snowflake
 
 
 ## Current Projects
