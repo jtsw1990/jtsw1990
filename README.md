@@ -1,11 +1,9 @@
 # Jonathan.T
 
 ## About Me
-<hr class="my-3">
 
-Sydney
-
-Singapore
+:computer: Sydney
+:baby: Singapore
 
 Creator of [nojutsu.io](https://nojutsu.io)
 
