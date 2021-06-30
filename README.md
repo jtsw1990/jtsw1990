@@ -2,6 +2,7 @@
 
 ## About Me
 <hr class="my-3">
+
 :australia: Sydney
 :singapore: Singapore
 
