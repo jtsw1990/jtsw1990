@@ -14,7 +14,7 @@ AIAA with commercial experience in the life and general insurance sectors, deali
 
 #### Experience
 04/2021 - Current: nib Health Funds - Senior Data Scientist (Travel) <br>
-01/2021 - 04/2021: iag Ltd - Pricing Algorithm Lead (Niche)  <br>
+01/2021 - 04/2021: iag Ltd - Pricing Algorithm Dev Lead (Niche)  <br>
 05/2020 - 01/2021: iag Ltd - Pricing Engine Analyst <br>
 06/2018 - 05/2020: nib Health Funds - Actuarial Analyst (Travel) <br>
 03/2018 - 06/2018: Aviva Ltd - Actuarial Executive (Life) 
