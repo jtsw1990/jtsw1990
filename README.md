@@ -5,12 +5,12 @@ Data scientist, actuarial science background.
 
 AIAA with commercial experience in the life and general insurance sectors, dealing with technical cost modelling, pricing engine development, commercial pricing, performance reporting and monitoring. Possesses strong technical foundations in statistics, mathematics and computing, with proven ability to provide data-driven solutions across the data science pipeline, from data extraction to business integration. Active participant in the data science community with open challenges and contributor to the Institute of Actuaries Australia’s “actuaries digital” analytics column. 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jtsw1990&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt="jtsw1990" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jtsw1990&count_private=true&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt="jtsw1990" />
 
 ### Tools I work with
 
 | Area | Tools |
-| ------------- |:-------------:|
+|:-------------:|:-------------:|
 | Data science     | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 | Frontend | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
 | API and Backend | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
