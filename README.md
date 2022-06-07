@@ -3,7 +3,14 @@
 
 Data scientist, actuarial science background.
 
-AIAA with commercial experience in the life and general insurance sectors, dealing with technical cost modelling, pricing engine development, commercial pricing, performance reporting and monitoring. Possesses strong technical foundations in statistics, mathematics and computing, with proven ability to provide data-driven solutions across the data science pipeline, from data extraction to business integration. Active participant in the data science community with open challenges and contributor to the Institute of Actuaries Australia’s “actuaries digital” analytics column. 
+AIAA with commercial experience in the life and general insurance sectors, dealing with technical cost modelling, pricing engine development, commercial pricing, performance reporting and monitoring. Possesses strong technical foundations in statistics, mathematics and computing, with proven ability to provide data-driven solutions across the data science pipeline, from data extraction to business integration. Active participant in the data science community with open challenges and contributor to the Institute of Actuaries Australia’s “actuaries digital” analytics column.
+Visit my websites: 
+- [Portfolio](https://jonathantansw.com/home)
+- [unpoliticly.com](https://unpoliticly.com)
+- [nojutsu.io](https://nojutsu.io)
+
+🔗 &nbsp;**I am also on:**
+<a href="https://www.linkedin.com/in/jonathan-tan-33a8169b/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a><a href="https://www.instagram.com/jtsw1990/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a><a href="https://www.facebook.com/jtsw1990/"><img src="https://img.icons8.com/color/40/000000/facebook.png"/></a><a href="mailto:jtsw1990@gmail.com"><img src="https://img.icons8.com/color/40/000000/gmail-new.png"/></a>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jtsw1990&count_private=true&show_icons=true&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt="jtsw1990" />
 
@@ -17,9 +24,7 @@ AIAA with commercial experience in the life and general insurance sectors, deali
 | Data warehousing | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 | Systems architecture | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) |
 
-[Portfolio](https://jonathantansw.com/home)
 
-Creator of [nojutsu.io](https://nojutsu.io)
 
 
 
@@ -40,9 +45,7 @@ Creator of [nojutsu.io](https://nojutsu.io)
 
 [Analytics Snippet: Natural Language Processing Text Classification](https://www.actuaries.digital/2018/11/20/analytics-snippet-natural-language-processing-text-classification/)
 
-🔗 &nbsp;**I am also on:**
 
-<a href="https://www.linkedin.com/in/jonathan-tan-33a8169b/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a><a href="https://www.instagram.com/jtsw1990/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a><a href="https://www.facebook.com/jtsw1990/"><img src="https://img.icons8.com/color/40/000000/facebook.png"/></a><a href="mailto:jtsw1990@gmail.com"><img src="https://img.icons8.com/color/40/000000/gmail-new.png"/></a>
 
 
 
