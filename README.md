@@ -12,7 +12,6 @@ Visit my websites:
 🔗 &nbsp;**I am also on:**
 <a href="https://www.linkedin.com/in/jonathan-tan-33a8169b/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a><a href="https://www.instagram.com/jtsw1990/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a><a href="https://www.facebook.com/jtsw1990/"><img src="https://img.icons8.com/color/40/000000/facebook.png"/></a><a href="mailto:jtsw1990@gmail.com"><img src="https://img.icons8.com/color/40/000000/gmail-new.png"/></a>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jtsw1990&count_private=true&show_icons=true&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt="jtsw1990" />
 
 ### Tools I work with
 
@@ -46,6 +45,6 @@ Visit my websites:
 [Analytics Snippet: Natural Language Processing Text Classification](https://www.actuaries.digital/2018/11/20/analytics-snippet-natural-language-processing-text-classification/)
 
 
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jtsw1990&count_private=true&show_icons=true&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt="jtsw1990" />
 
 
