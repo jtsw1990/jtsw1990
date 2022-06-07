@@ -23,17 +23,8 @@ Creator of [nojutsu.io](https://nojutsu.io)
 
 
 
-#### Experience
-04/2021 - Current: nib Health Funds - Senior Data Scientist (Travel) <br>
-01/2021 - 04/2021: iag Ltd - Pricing Algorithm Dev Lead (Niche)  <br>
-05/2020 - 01/2021: iag Ltd - Pricing Engine Analyst <br>
-06/2018 - 05/2020: nib Health Funds - Actuarial Analyst (Travel) <br>
-03/2018 - 06/2018: Aviva Ltd - Actuarial Executive (Life) 
-
-#### Education
-2015-2018: Australian National University: Master of Actuarial Science <br>
-2013-2015: Singapore Institute of Management: Bachelor of Accountancy
-
+## Public projects
+![https://github-readme-stats.vercel.app/api/pin/?username=jtsw1990&repo=webapp-pricingengine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false](https://github.com/jtsw1990/webapp-pricingengine)
 
 
 ## Current Projects
@@ -47,6 +38,8 @@ End-to-end insurance pricing engine
 Melbourne Business Analytics Datathon 2021
 
 ## Publications
+
+
 [Analytics Snippet: Explainable ML: A peek into the black box through SHAP](https://www.actuaries.digital/2021/02/05/explainable-ml-a-peek-into-the-black-box-through-shap/)
 
 [Analytics Snippet: Version control, because the Recycle Bin doesn't count](https://www.actuaries.digital/2019/04/17/analytics-snippet-version-control-because-the-recycle-bin-doesnt-count/)
