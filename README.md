@@ -28,7 +28,7 @@ Creator of [nojutsu.io](https://nojutsu.io)
 <a href="https://github.com/jtsw1990/webapp-pricingengine"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsw1990&repo=webapp-pricingengine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="pricingengine"></a>
 <a href="https://github.com/jtsw1990/webapp-jonathantansw"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsw1990&repo=webapp-jonathantansw&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a>
 </p>
-<p align="left>
+<p align="left">
 <a href="https://github.com/jtsw1990/grab-ai-safety"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsw1990&repo=grab-ai-safety&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="grab"></a>
 <a href="https://github.com/jtsw1990/webapp-unpoliticly"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsw1990&repo=webapp-unpoliticly&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unpoliticly"></a>
 </p>
