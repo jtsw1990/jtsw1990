@@ -40,7 +40,7 @@ Creator of [nojutsu.io](https://nojutsu.io)
 
 [Analytics Snippet: Natural Language Processing Text Classification](https://www.actuaries.digital/2018/11/20/analytics-snippet-natural-language-processing-text-classification/)
 
-## Connect With Me
+🔗 &nbsp;**I am also on:**
 
 <a href="https://www.linkedin.com/in/jonathan-tan-33a8169b/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a><a href="https://www.instagram.com/jtsw1990/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a><a href="https://www.facebook.com/jtsw1990/"><img src="https://img.icons8.com/color/40/000000/facebook.png"/></a><a href="mailto:jtsw1990@gmail.com"><img src="https://img.icons8.com/color/40/000000/gmail-new.png"/></a>
 
