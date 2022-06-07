@@ -24,8 +24,8 @@ Creator of [nojutsu.io](https://nojutsu.io)
 
 
 ## Public projects
-![https://github-readme-stats.vercel.app/api/pin/?username=jtsw1990&repo=webapp-pricingengine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false](https://github.com/jtsw1990/webapp-pricingengine)
 
+<a href="https://github.com/jtsw1990/webapp-pricingengine"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsw1990&repo=webapp-pricingengine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="pricingengine"></a>
 
 ## Current Projects
 
