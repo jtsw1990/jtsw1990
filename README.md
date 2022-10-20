@@ -1,7 +1,7 @@
 ## Welcome to my page
 
 
-Data scientist, Insights manager, actuarial science background.
+Data science |  Actuarial science | Web3
 
 
 Visit my websites: 
