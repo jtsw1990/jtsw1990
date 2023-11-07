@@ -5,7 +5,7 @@ Data science |  Actuarial science | Web3
 
 
 Visit my websites: 
-- [Portfolio](https://jonathantansw.com/home)
+- [Portfolio](https://thesourceco.de/home)
 - [NFT Collection](https://opensea.io/collection/cult-by-jtlabs)
 - [nojutsu.io](https://nojutsu.io)
 
