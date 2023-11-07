@@ -44,7 +44,3 @@ Visit my websites:
 
 [Analytics Snippet: Natural Language Processing Text Classification](https://www.actuaries.digital/2018/11/20/analytics-snippet-natural-language-processing-text-classification/)
 
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=jtsw1990&count_private=true&show_icons=true&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt="jtsw1990" />
-
-
