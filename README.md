@@ -1,16 +1,11 @@
 ## Welcome to my page
 
-
 Data science |  Actuarial science | Web3
-
 
 Visit my websites: 
 - [Portfolio](https://thesourceco.de/home)
 - [NFT Collection](https://opensea.io/collection/cult-by-jtlabs)
 - [nojutsu.io](https://nojutsu.io)
-
-🔗 &nbsp;**I am also on:**
-<a href="https://www.linkedin.com/in/jonathan-tan-33a8169b/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a><a href="https://www.instagram.com/jtsw1990/"><img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/></a><a href="https://www.facebook.com/jtsw1990/"><img src="https://img.icons8.com/color/40/000000/facebook.png"/></a><a href="mailto:jtsw1990@gmail.com"><img src="https://img.icons8.com/color/40/000000/gmail-new.png"/></a>
 
 
 ### Tools I work with
@@ -22,10 +17,6 @@ Visit my websites:
 | API and Backend | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 | Data warehousing | ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
 | Systems architecture | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) | ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-
-
-
 
 
 ## Public projects
