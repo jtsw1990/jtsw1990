@@ -1,4 +1,6 @@
-## Welcome to my page
+##:wave:  Hello, my name is Jonathan.
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jtsw1990.visitor-badge)
 
 Data science |  Actuarial science | Web3
 
@@ -9,7 +11,7 @@ Visit my websites:
 
 
 ### Tools I work with
-
+---
 | Area | Tools |
 |:-------------:|:-------------:|
 | Data science     | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
@@ -19,7 +21,8 @@ Visit my websites:
 | Systems architecture | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) | ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 
-## Public projects
+## :open_file_folder: Public projects
+---
 <p align="left">
 <a href="https://github.com/jtsw1990/webapp-pricingengine"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsw1990&repo=webapp-pricingengine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="pricingengine"></a><a href="https://github.com/jtsw1990/webapp-unpoliticly"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsw1990&repo=webapp-unpoliticly&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unpoliticly"></a>
 
@@ -27,7 +30,8 @@ Visit my websites:
 </p>
 
 
-## Publications
+## :page_with_curl: Publications
+---
 
 [Analytics Snippet: Explainable ML: A peek into the black box through SHAP](https://www.actuaries.digital/2021/02/05/explainable-ml-a-peek-into-the-black-box-through-shap/)
 
