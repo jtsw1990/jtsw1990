@@ -2,7 +2,6 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjtsw1990&label=visitors&countColor=%2337d67a)
 
-Data science |  Actuarial science | Web3
 
 ## :white_check_mark: Showcase
 
@@ -11,7 +10,7 @@ Data science |  Actuarial science | Web3
 - [Glimpse AI Instagram](https://www.instagram.com/glimpse.feed/)
 - [NFT collection](https://opensea.io/collection/cult-by-jtlabs)
 
-## :wrench: Tools
+## :wrench: Stack
 
 | Area | Tools |
 |:-------------:|:-------------:|
@@ -25,7 +24,7 @@ Data science |  Actuarial science | Web3
 ## :open_file_folder: Public projects
 
 <p align="left">
-<a href="https://github.com/jtsw1990/webapp-pricingengine"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsw1990&repo=webapp-pricingengine&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="pricingengine"></a><a href="https://github.com/jtsw1990/webapp-unpoliticly"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsw1990&repo=webapp-unpoliticly&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unpoliticly"></a>
+<a href="https://github.com/jtsw1990/data-pipeline"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsw1990&repo=data-pipeline&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="pricingengine"></a><a href="https://github.com/jtsw1990/webapp-unpoliticly"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsw1990&repo=webapp-unpoliticly&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unpoliticly"></a>
 
 <a href="https://github.com/jtsw1990/webapp-jonathantansw"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsw1990&repo=webapp-jonathantansw&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="portfolio"></a><a href="https://github.com/jtsw1990/grab-ai-safety"><img height="150" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsw1990&repo=grab-ai-safety&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="grab"></a>
 </p>
